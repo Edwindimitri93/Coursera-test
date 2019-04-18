@@ -119,3 +119,18 @@ width: 300px;
 
 /**** mobile_view ****/
 
+.col-mb-1, .col-mb-2, .col-mb-3
+
+	{
+		border: 1px solid black;
+		margin: 2px;
+	}
+	.col-mb-1{
+		width: 100%;
+	}
+	.col-mb-2{
+		width: 100%;
+	}
+	.col-mb-3{
+		width: 100%;
+	}
